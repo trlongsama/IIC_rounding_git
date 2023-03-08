@@ -1,0 +1,6 @@
+streamlit==1.14.0
+pandas==1.4.2
+numpy
+beautifulsoup4==4.11.1
+xmlformatter==0.2.4
+lxml==4.9.2
